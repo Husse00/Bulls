@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "Andre Drummond",
+    "Points": 109,
+    "Games": 34,
+    "Rating": "9.3",
+    "Height": "6.11",
+    "Age": 29
+  },
+  {
+    "Name": "Zack LaVine",
+    "Points": 88,
+    "Games": 45,
+    "Rating": "8.6",
+    "Height": "6.5",
+    "Age": 27
+  },
+  {
+    "Name": "Javonte Green",
+    "Points": 90,
+    "Games": 39,
+    "Rating": "8.2",
+    "Height": "6.4",
+    "Age": 29
+  },
+  {
+    "Name": "Dalen Terry",
+    "Points": 50,
+    "Games": 40,
+    "Rating": "7.3",
+    "Height": "6.7",
+    "Age": 20
+  },
+  {
+    "Name": "Marko Sinomovic",
+    "Points": 43,
+    "Games": 36,
+    "Rating": "7.1",
+    "Height": "7.0",
+    "Age": 23
+  },
+  {
+    "Name": "Demar DeRozan",
+    "Points": 56,
+    "Games": 47,
+    "Rating": "9.1",
+    "Height": "6.6",
+    "Age": 33
+  }
+]
