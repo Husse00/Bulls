@@ -1,14 +1,97 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Document</title>
-</head>
-<body>
-<div id="root"></div>   
-<script src="script.js"></script>    
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Chicago Bulls Fansite</title>
+  </head>
+  <body class="body">
+    <header>
+      <img src="imgs/bulls2.png" alt="Chicago Bulls logo" class="bullslogo" />
+      <img
+        src="/imgs/nba-logo-transparent.png"
+        alt="NBA logo"
+        class="nbalogo"
+      />
+      <ul class="menu">
+        <li class="team"><a href="#res1" class="team-a">Team</a></li>
+        <li class="season"><a href="#season" class="season-a">Season</a></li>
+        <li class="players"><a href="#" class="players-a">Players</a></li>
+      </ul>
+      <p class="year" id="sYear">22/23</p> 
+    </header>
+    <section>
+      <img
+        src="/imgs/pattern_waves-4_0.5_5_0-0_90_1__1c1c1c_d1153a99.png"
+        alt="Wave background"
+        class="wavebg"
+      />
+      <div class="res" id="res1">
+        <p class="result">Wins</p>
+        <p class="result">Draws</p>
+        <p class="result">Loses</p>
+      </div>
+      <div>
+        <img src="/imgs/Rectangle 2@2x.png" alt="text background" class="textbg">
+        <img src="/imgs/Rectangle 2@2x.png" alt="text background" class="textbg2">
+        <img src="/imgs/Rectangle 2@2x.png" alt="text background" class="textbg3">
+
+
+      </div>
+      <div>
+        <div class="numbers">
+          <p id="wins">37</p>
+          <p id="draws">1</p>
+          <p id="loses">14</p>
+        </div>
+        <div class="resImgs">
+          <img
+            src="/imgs/2122-mobile-wallpaper-01.png"
+            alt="Win Image"
+            class="winimg"
+          />
+          <img
+            src="/imgs/2122-mobile-wallpaper-22.png"
+            alt="Draw Image"
+            class="winimg"
+          />
+          <img
+            src="/imgs/2122-mobile-wallpaper-32.png"
+            alt="Lose Image"
+            class="winimg"
+          />
+        </div>
+      </div>
+    </section>
+    <section id="season">
+      <div class="ratingText">
+        <div class="seasonratingP">
+        <p>Season <br> <span class="srText">rating</span> <br> <span id="ratingP"> 89% </span></p>
+      </div>
+      <div class="seasonrating">
+        <p>Games - <span class="srNumb" id="gamesNr">55</span></p>
+      </div> 
+      </div>
+       <div class="seasonImgs">
+        <img src="/imgs/2122-mobile-wallpaper-23.png" alt="Season Rating Image" class="simg">
+        <img src="/imgs/2122-mobile-wallpaper-17.png" alt="Nice Graphic">
+        <img src="/imgs/2122-mobile-wallpaper-26.png" alt="Nice Graphic">
+
+      </div> 
+    </section>
+    <section>
+
+
+
+
+
+
+
+
+    </section>
+    <div id="root"></div>
+    <script src="script.js"></script>
+  </body>
 </html>

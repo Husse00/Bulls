@@ -1,0 +1,185 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Poppins:wght@400;700&family=Rubik:wght@300&display=swap");
+
+.body {
+  background-color: #1d1d1d;
+  margin: 0;
+}
+.bullslogo {
+  width: 100%;
+  margin-bottom: -9.6em;
+}
+.menu {
+  font-family: "Montserrat", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 700;
+  text-align: center;
+  font-size: 7em;
+  display: block;
+  margin-top: -5em;
+  margin-left: -13em;
+  justify-content: center;
+  list-style: none;
+  color: rgb(151, 0, 38);
+  cursor: pointer;
+  text-decoration: none;
+}
+.team-a {
+  text-decoration: none;
+  color: rgb(148, 2, 50);
+  position: relative;
+  left: -0.4em;
+}
+.team-a:hover {
+  color: azure;
+}
+.season-a {
+  text-decoration: none;
+  color: rgb(148, 2, 50);
+}
+.season-a:hover {
+  color: azure;
+}
+.players-a {
+  text-decoration: none;
+  color: rgb(148, 2, 50);
+}
+.players-a:hover {
+  color: azure;
+}
+.nbalogo {
+  position: absolute;
+  right: 4em;
+  top: 2em;
+}
+.year {
+  color: azure;
+  text-align: center;
+  font-size: 5em;
+  display: block;
+  margin-top: 2.4em;
+  font-family: "Montserrat", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: aqua;
+}
+.wavebg {
+  width: 100%;
+  display: flex;
+  margin-top: -4.8em;
+}
+.res {
+  display: flex;
+  gap: 26em;
+  justify-content: center;
+  margin-top: -67em;
+}
+.result {
+  font-size: 5em;
+  color: azure;
+  font-family: "Montserrat", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  z-index: 66;
+}
+.textbg {
+  display: block;
+  justify-content: center;
+  margin: auto;
+  align-items: center;
+
+  width: 18em;
+  position: relative;
+  left: -40.3em;
+  bottom: 6.7em;
+}
+.textbg2 {
+  display: block;
+  justify-content: center;
+  margin: auto;
+  align-items: center;
+
+  width: 19em;
+  position: relative;
+  left: 0em;
+  bottom: 8.2em;
+}
+.textbg3 {
+  display: block;
+  justify-content: center;
+  margin: auto;
+  align-items: center;
+
+  width: 18em;
+  position: relative;
+  left: 40.3em;
+  bottom: 9.6em;
+}
+.resImgs {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  gap: 10em;
+  margin-top: -16em;
+  z-index: -3;
+}
+.winimg {
+  display: flex;
+  margin-top: -5em;
+}
+.numbers {
+  font-size: 6em;
+  color: azure;
+  font-family: "Montserrat", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  gap: 6em;
+  margin-top: -1em;
+  z-index: 5;
+  position: relative;
+  bottom: 0.7em;
+}
+.seasonratingP {
+  color: azure;
+  font-size: 5em;
+  font-family: "Montserrat", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  top: 1em;
+  left: 0.2em;
+  width: 15em;
+  z-index: 6;
+}
+.seasonrating {
+  color: azure;
+  font-size: 5em;
+  font-family: "Montserrat", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 7em;
+  z-index: 6;
+}
+.srText {
+  position: relative;
+  top: -0.3em;
+}
+.ratingText {
+  justify-content: center;
+  display: block;
+  margin-left: -80em;
+}
+.seasonImgs {
+  display: flex;
+  margin-top: -39em;
+  justify-content: center;
+}
+.simg {
+  width: 39.5em;
+}
+.srNumb {
+  width: 3em;
+}
