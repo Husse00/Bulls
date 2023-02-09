@@ -183,3 +183,25 @@
 .srNumb {
   width: 3em;
 }
+.playerData{
+  font-size: 1.4em;
+  color: azure;
+  font-family: "Montserrat", "Lucida Sans Unicode", "Lucida Grande",
+  "Lucida Sans", Arial, sans-serif;
+  position: relative;
+  right: -8.5em;
+  width: 8em;
+}
+.RosterSection1{
+  display: flex;
+  justify-content: center;
+  gap: 3.5em;
+  margin-top: 3.5em;
+}
+.pName{
+  font-size: 1.6em;
+  color: azure;
+  font-family: "Montserrat", "Lucida Sans Unicode", "Lucida Grande",
+  "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
